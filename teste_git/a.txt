@@ -1,1 +1,2 @@
 entendendo o HEAD
+linha adicionada no ramo master
