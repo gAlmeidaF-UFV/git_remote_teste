@@ -1,6 +1,3 @@
 entendendo o HEAD
-<<<<<<< HEAD
 linha adicionada no ramo master
-=======
 linah criada no branch 'teste_branch'
->>>>>>> teste_branch
